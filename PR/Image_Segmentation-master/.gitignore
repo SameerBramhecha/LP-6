@@ -1,0 +1,6 @@
+BSR_*
+.ipynb_*
+.git
+Images
+*.pkl
+*.npy
